@@ -1,2 +1,2 @@
-# Hosting-AWS-Static-Website
+# How-to-host-an-AWS-Static-Website
 My learnings about hosting an AWS Static Website
